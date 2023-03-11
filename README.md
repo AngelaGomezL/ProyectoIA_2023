@@ -4,8 +4,8 @@
 
 
 Angela Maria Gómez Londoño CC: 1026159266
-/Manuela Zapata Cifuentes CC: 1040326871
-Felipe Barrera Hincapié CC: 1007223451
+,Manuela Zapata Cifuentes CC: 1040326871
+,Felipe Barrera Hincapié CC: 1007223451
 
 
 # Datos
