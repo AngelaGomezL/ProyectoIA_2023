@@ -11,3 +11,7 @@ Angela Maria Gómez Londoño CC: 1026159266
 # Datos
 Los datos del proyecto vienen de “Respiratory sound database” 2019, disponible online: Respiratory Sound Database |Kaggle"
 
+
+# Video YouTube
+https://www.youtube.com/watch?v=0ul4E7sM58o
+
