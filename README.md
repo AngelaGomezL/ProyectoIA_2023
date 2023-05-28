@@ -13,5 +13,5 @@ Los datos del proyecto vienen de “Respiratory sound database” 2019, disponib
 
 
 # Video YouTube
-https://www.youtube.com/watch?v=0ul4E7sM58o
-
+Video entrega 1: https://www.youtube.com/watch?v=0ul4E7sM58o
+Video entrega 2: https://www.youtube.com/watch?v=vjMuDuTKUWk
